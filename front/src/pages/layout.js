@@ -12,14 +12,12 @@ const Layout = () => {
             <Link to="/languages">Languages</Link>
           </li>
           <li>
-            <Link to="/pin">Pin</Link>
-          </li>
-          <li>
             <Link to="/checkout">Checkout</Link>
           </li>
           <li>
-            <Link to="/withdraw">Withdraw</Link>
+            <Link to="/pin">Pin</Link>
           </li>
+
         </ul>
       </nav>
 
