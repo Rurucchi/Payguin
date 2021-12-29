@@ -1,11 +1,3 @@
 # Payguin
 
-## Front-end (Frameworks)
-
-- React (JS)
-- Reactstrap(JS)
-
-## Back-end (Frameworks)
-
-- NodeJS (JS)
--
+Going to update it later
