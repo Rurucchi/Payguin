@@ -1,11 +1,16 @@
 # Payguin
 
-## Front-end (Frameworks)
+## front branch :
 
-- React (JS)
-- Reactstrap(JS)
+- React
+- Reactstrap
+- TailwindCSS
+- PostCSS
+- NodeJS
 
-## Back-end (Frameworks)
+## back banch :
 
 - NodeJS (JS)
--
+- ExpressJS
+- PostGreSQL
+- GraphQL
