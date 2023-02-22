@@ -1,3 +1,5 @@
+#Deprecated. might start all over in the future.
+
 # Payguin
 
 ## front branch :
